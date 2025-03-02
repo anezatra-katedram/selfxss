@@ -1,5 +1,5 @@
 # SelfXSS Clickjack Attacker ⚠️
-![banner image](https://github.com/anezatra/selfxss/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/selfxss/blob/main/banner.jpg)
 ## What is a SelfXSS?
 **Self-xss (Self Cross-Site Scripting) is a type of social engineering attack and is often used to deceive users. In this attack, the attacker tries to get the user to run malicious code on his or her device. This tool allows you to perform this attack on sites that do not have XSS vulnerabilities. You can retrieve the target's Cookies and messages.**
 ## How is it working? 👁‍🗨
